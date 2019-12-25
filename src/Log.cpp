@@ -1,5 +1,5 @@
-#include <iostream>
 #include "Log.h"
+#include <iostream>
 
 void InitLog()
 {

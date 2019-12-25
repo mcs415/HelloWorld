@@ -1,7 +1,6 @@
 # ninja log v5
-0	305	1577228616	CMakeFiles/HelloWorld.dir/src/Math.cpp.o	12bcc11b50bea423
-0	306	1577228616	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	4538737b9c99ad21
-1	306	1577228616	CMakeFiles/HelloWorld.dir/src/Log.cpp.o	276e6d39b467cff0
-1	314	1577228616	CMakeFiles/hello_world.dir/src/Main.cpp.o	731e0d962d34d6ea
-306	321	1577228616	libHelloWorld.a	f7deea51fd32b08d
-321	385	1577228616	hello_world	eb5dbf9e4c39fedb
+1	297	1577248336	CMakeFiles/HelloWorld.dir/src/Log.cpp.o	43cf26e091f94d55
+2	243	1577248568	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	4996157e3712b85b
+2	243	1577248568	CMakeFiles/hello_world.dir/src/Main.cpp.o	36eb7f321b5bdd3d
+243	268	1577248568	libHelloWorld.a	354892417695add2
+268	331	1577248568	hello_world	18ea8b80265664ea
