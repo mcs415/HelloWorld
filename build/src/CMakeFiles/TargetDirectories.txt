@@ -1,0 +1,4 @@
+/home/mcsippel/Dev/HelloWorld/build/src/CMakeFiles/rebuild_cache.dir
+/home/mcsippel/Dev/HelloWorld/build/src/CMakeFiles/edit_cache.dir
+/home/mcsippel/Dev/HelloWorld/build/src/CMakeFiles/HelloWorld.dir
+/home/mcsippel/Dev/HelloWorld/build/src/CMakeFiles/hello_world.dir

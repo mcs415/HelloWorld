@@ -1,0 +1,6 @@
+# ninja log v5
+0	200	1577289425	CMakeFiles/HelloWorld.dir/src/Main.cpp.o	4996157e3712b85b
+0	271	1577289425	CMakeFiles/HelloWorld.dir/src/Log.cpp.o	43cf26e091f94d55
+0	271	1577289425	CMakeFiles/hello_world.dir/src/Main.cpp.o	36eb7f321b5bdd3d
+271	285	1577289425	libHelloWorld.a	354892417695add2
+285	347	1577289425	hello_world	18ea8b80265664ea
